@@ -18,10 +18,10 @@ We utilized the "Layoffs 2022" dataset available on Kaggle, which contains compr
 We collected data on tech layoffs by scraping the Airtable table from "Layoffs.fyi", a comprehensive database providing real-time information about layoffs in the tech industry.
  
 ## Methodology
-We used various data analysis and visualization techniques to explore the dataset. The methodologies applied include [list of methodologies].
+We used various data analysis and visualization techniques to explore the retrived data from the above data sources. The methodologies applied include [list of methodologies].
 
 ## Results
-Our analysis revealed that [brief summary of the results]. For more detailed results, please refer to the [name of the file with detailed results].
+Our analysis revealed that [brief summary of the results]. For more detailed results, please refer to the report [Final Report].
 
 ## Conclusion
 In conclusion, [summary of the findings and their implications].
