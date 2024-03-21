@@ -45,4 +45,4 @@ You can find more information on the extracted data under:
 
 ```   
 ## Sentiment Analysis
-We delve into related Reddit subreddits, such as r/technews, to gauge evolving layoff psychology.
+We used VADER(Valence Aware Dictionary and sEntiment Reasoner) to perform sentiment analysis on top Reddit posts from r/technology to gauge evolving layoff psychology. Using the data from the analysis , we tried to correlate with Mean GDP and also observe the impact of the sentiments against upvote ratio and number of comments. 
