@@ -28,7 +28,3 @@ This project aims to explore the landscape of unemployment through we scraping a
 └── tableau
     └── LayoffsAnalysis.twbx
 ```
-
-## How to Run the Code
-
-## Acknowledgements
