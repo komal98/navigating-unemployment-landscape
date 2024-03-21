@@ -4,7 +4,31 @@
 ## Introduction
 This project aims to explore the landscape of unemployment through we scraping and data analysis. We delve into layoffs, economic factors, and employee sentiments to provide a comprehensive view of the current job market.
 
-## How to Run the Code
+## Directory Structure
+```
+.
+├── README.md
+├── code
+│   ├── economic-data-analysis.ipynb
+│   ├── layoffs-fyi-scraper.ipynb
+│   ├── subreddit.ipynb
+│   └── tech-layoffs-analysis.ipynb
+├── data
+│   ├── README.md
+│   ├── layoffs.csv
+│   ├── layoffs_combined_cleaned.csv
+│   └── layoffs_data.csv
+├── output
+│   ├── LayoffsAnalysis.pptx
+│   ├── layoffs_country.png
+│   ├── layoffs_industry.png
+│   ├── layoffs_industry10.png
+│   ├── layoffs_plot.png
+│   └── pie-chart.png
+└── tableau
+    └── LayoffsAnalysis.twbx
+```
 
+## How to Run the Code
 
 ## Acknowledgements
