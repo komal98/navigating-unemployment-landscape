@@ -13,10 +13,12 @@ Amidst this backdrop, we embarked on an exploration to understand whether econom
 3. Kaggle: Publicly available datasets on tech layoffs.
 
 You can find more information on the extracted data under:
+```
 .
 ├── data
 │   ├── README.md
-    
+
+```   
 ## Sentiment Analysis
 We delve into related Reddit subreddits, such as r/technews, to gauge evolving layoff psychology.
 
