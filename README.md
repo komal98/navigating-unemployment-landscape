@@ -36,6 +36,7 @@ Amidst this backdrop, we embarked on an exploration to understand whether econom
 1. [Fred API](https://fred.stlouisfed.org/docs/api/fred/): Provides economic indicators.
 2. [layoffs.fyi](https://layoffs.fyi/): Scraped data on layoffs.
 3. [Kaggle](https://www.kaggle.com/datasets/swaptr/layoffs-2022/data): Publicly available datasets on tech layoffs.
+4. Reddit r/technews and r/technology
 
 You can find more information on the extracted data under:
 ```
